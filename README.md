@@ -26,7 +26,7 @@ A web application that extracts key information from resumes (PDF or image) usin
 Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/resume-parser.git
+git clone https://github.com/nabin-p/Resume-parser.git
 cd resume-parser
 ````
 
