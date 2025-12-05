@@ -1,0 +1,14 @@
+streamlit
+transformers
+torch
+pdf2image
+pymupdf
+pillow
+spacy
+# https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+datasets
+evaluate
+seqeval
+accelerate
+scikit-learn
+numpy
